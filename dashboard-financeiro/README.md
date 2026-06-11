@@ -55,6 +55,12 @@ Dashboard desenvolvido em Power BI com o objetivo de fornecer uma visão consoli
 
 ---
 
+## 📥 Download do Projeto
+
+[📊 Baixar arquivo PBIX](dashboard_financeiro.pbix)
+
+---
+
 ## 💡 Principais Recursos
 
 * Navegação entre páginas
