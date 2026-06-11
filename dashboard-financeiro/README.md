@@ -47,19 +47,11 @@ Dashboard desenvolvido em Power BI com o objetivo de fornecer uma visão consoli
 
 ---
 
-## 🖼️ Telas do Dashboard
+![Home](https://raw.githubusercontent.com/Daniel-Limma/portfolio-powerbi/main/dashboard-financeiro/imagens/home.png)
 
-### Home
+![Visão Geral](https://raw.githubusercontent.com/Daniel-Limma/portfolio-powerbi/main/dashboard-financeiro/imagens/visao-geral.png)
 
-![Home](imagens/home.png)
-
-### Visão Geral
-
-![Visão Geral](imagens/visao-geral.png)
-
-### Detalhamento
-
-![Detalhamento](imagens/detalhamento.png)
+![Detalhamento](https://raw.githubusercontent.com/Daniel-Limma/portfolio-powerbi/main/dashboard-financeiro/imagens/detalhamento.png)
 
 ---
 
