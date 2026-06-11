@@ -51,15 +51,15 @@ Dashboard desenvolvido em Power BI com o objetivo de fornecer uma visão consoli
 
 ### Home
 
-![Home](imagens/Home.png)
+![Home](imagens/home.png)
 
 ### Visão Geral
 
-![Visão Geral](imagens/Visao-Geral.png)
+![Visão Geral](imagens/visao-geral.png)
 
 ### Detalhamento
 
-![Detalhamento](imagens/Detalhamento.png)
+![Detalhamento](imagens/detalhamento.png)
 
 ---
 
